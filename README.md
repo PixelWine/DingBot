@@ -1,6 +1,5 @@
-# Zoombot
-A highly advanced AI to handle all those Zoom calls so you can live your life in peace. WARNING: Everything about this project is shitty other than Artyom.js (which was actually coded by someone who knows what they're doing) so I take no responsibility for not preloading the images, not creating a local https server, and using some random old ass version of jQuery. Sorry for the nightmares but hey, this thing actually works so have fun! If you want to learn a little more about Zoombot I wrote this too https://redpepper.land/blog/zoombot/
-
+# DingBot
+高度先进的AI可以处理所有这些钉钉视频会议，因此您可以安逸地生活。 警告：除了Artyom.js（实际上是由知道他们在做什么的人编写的代码）之外，关于此项目的所有内容都是糟糕的，因此我不承担不预加载图像，未创建本地https服务器以及使用某些随机操作的责任。 旧版的jQuery。 对不起，噩梦，但是，这件事实际上很有效，玩得开心！ 如果您想了解有关Zoombot的更多信息，我也写了这篇文章https://redpepper.land/blog/zoombot/
 
 ## Setup
 - Replace the images in /img with your pics
